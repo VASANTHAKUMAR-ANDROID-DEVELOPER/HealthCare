@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Food"
+
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="281dp"
+            app:srcCompat="@drawable/images__10_" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="10sp"
+            android:text="HEALTHY FOODS"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15sp"
+            android:text="A healthy diet includes the following: Fruit, vegetables, legumes (e.g. lentils and beans), nuts and whole grains (e.g. unprocessed maize, millet, oats, wheat and brown rice). At least 400 g (i.e. five portions) of fruit and vegetables per day (2), excluding potatoes, sweet potatoes, cassava and other starchy roots."
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="649dp"
+            app:srcCompat="@drawable/_1dhtg4ejrl__sx331_bo1_204_203_200_" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15sp"
+            android:text="Vitamins are organic substances that are generally classified as either fat soluble or water soluble. Fat-soluble vitamins (vitamin A, vitamin D, vitamin E, and vitamin K) dissolve in fat and tend to accumulate in the body. Water-soluble vitamins (vitamin C and the B-complex vitamins, such as vitamin B6, vitamin B12, and folate) must dissolve in water before they can be absorbed by the body, and therefore cannot be stored. Any water-soluble vitamins unused by the body is primarily lost through urine.
+
+Minerals are inorganic elements present in soil and water, which are absorbed by plants or consumed by animals. While you’re likely familiar with calcium, sodium, and potassium, there is a range of other minerals, including trace minerals (e.g. copper, iodine, and zinc) needed in very small amounts."
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+</LinearLayout>
+</ScrollView>
+
+

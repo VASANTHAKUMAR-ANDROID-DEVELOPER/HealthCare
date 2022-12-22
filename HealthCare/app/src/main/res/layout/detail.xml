@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="410dp"
+                android:layout_height="60dp"
+                android:background="#00A2CA"
+                android:gravity="center"
+                android:text="     online doctor consultation"
+                android:textColor="@color/white"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr. Elangovan
+                           Mobile No:9498027043
+                           Place:Govt. Hq. Hospital, Tiruppur"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr Govindarajan, i/c
+                           Mobile No:9444982662
+                           Place:Govt. Hq. Hospital, CUDDALORE"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+
+                android:text="Doctor:Dr. Shanazbegum
+                           Mobile No:9444982663
+                           Place:Govt. Hq. Hospital, DHARMAPURI"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor: Dr. C. Subramani
+                           Mobile No:9444982664
+                           Place:Govt. Hq. Hospital, DINDIGUL"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr Gunasekaran
+                           Mobile No:9444982665
+                           Place: Govt. Hq. Hospital, ERODE"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr.M.K.Brammadevi
+                           Mobile No:9444982667
+                           Place: Govt. Hq. Hospital, KANCHEEPURAM"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor: Dr.N.Sampath
+                           Mobile No:9443416460
+                           Place: Govt. Hq. Hospital, Nagarcoil"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr.Umeswari Vijayakumar
+                           Mobile No:9444982669
+                           Place:Govt. Hq. Hospital, KARUR"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr. A. Chandranathan
+                           Mobile No: 9444982670
+                           Place:Govt. Hq. Hospital, KRISHNAGIRI"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor: Dr. Anandan
+                           Mobile No:9444982671
+                           Place: Govt. Hq. Hospital, Usilampatti"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr. M. Krishnan
+                           Mobile No: 9444982672
+                           Place:Govt. Hq. Hospital, NAGAPATTINAM"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor:Dr. Sampathkumar i/c
+                           Mobile No:9444982673
+                           Place:Govt. Hq. Hospital, NAMAKKAL"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+
+            <TextView
+                android:layout_width="380dp"
+                android:layout_height="150dp"
+                android:layout_marginLeft="12sp"
+                android:layout_marginTop="10sp"
+                android:background="#05F3D7"
+                android:gravity="center"
+                android:text="Doctor: Dr. N. Rathinaraj
+                           Mobile No:9444982674
+                           Place:Govt. Hq. Hospital, PERAMBALUR"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.076" />
+        </LinearLayout>
+
+
+</ScrollView>

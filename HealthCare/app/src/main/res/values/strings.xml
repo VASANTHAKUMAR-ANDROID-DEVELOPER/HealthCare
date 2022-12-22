@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Health Care</string>
+    <string name="open" />
+    <string name="close" />
+</resources>
